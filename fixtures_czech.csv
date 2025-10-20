@@ -1,0 +1,282 @@
+fixture_id,league,match_date,home_team,away_team,status
+1049494,Fortuna League,2023-07-22T13:00:00+00:00,Karviná,Zlin,FT
+1049495,Fortuna League,2023-07-22T13:00:00+00:00,Teplice,Plzen,FT
+1049493,Fortuna League,2023-07-22T13:00:00+00:00,Pardubice,Bohemians 1905,FT
+1049496,Fortuna League,2023-07-22T16:00:00+00:00,Slavia Praha,Hradec Králové,FT
+1049497,Fortuna League,2023-07-23T13:00:00+00:00,Mlada Boleslav,FK Jablonec,FT
+1049498,Fortuna League,2023-07-23T13:00:00+00:00,Slovan Liberec,Baník Ostrava,FT
+1049499,Fortuna League,2023-07-23T13:00:00+00:00,Slovácko,České Budějovice,FT
+1049500,Fortuna League,2023-07-23T16:00:00+00:00,Sparta Praha,Sigma Olomouc,FT
+1049502,Fortuna League,2023-07-29T13:00:00+00:00,Zlin,Sparta Praha,FT
+1049501,Fortuna League,2023-07-29T13:00:00+00:00,Sigma Olomouc,Karviná,FT
+1049503,Fortuna League,2023-07-29T13:00:00+00:00,Pardubice,FK Jablonec,FT
+1049504,Fortuna League,2023-07-29T16:00:00+00:00,Baník Ostrava,Slovácko,FT
+1049507,Fortuna League,2023-07-30T13:00:00+00:00,Mlada Boleslav,Slovan Liberec,FT
+1049506,Fortuna League,2023-07-30T13:00:00+00:00,Bohemians 1905,Teplice,FT
+1049505,Fortuna League,2023-07-30T13:00:00+00:00,České Budějovice,Slavia Praha,FT
+1049508,Fortuna League,2023-07-30T16:00:00+00:00,Plzen,Hradec Králové,FT
+1049509,Fortuna League,2023-08-05T13:00:00+00:00,Sparta Praha,Pardubice,FT
+1049510,Fortuna League,2023-08-05T13:00:00+00:00,Karviná,Mlada Boleslav,FT
+1049511,Fortuna League,2023-08-05T13:00:00+00:00,Slovácko,Sigma Olomouc,FT
+1049512,Fortuna League,2023-08-05T16:00:00+00:00,Hradec Králové,České Budějovice,FT
+1049513,Fortuna League,2023-08-06T13:00:00+00:00,Plzen,Baník Ostrava,FT
+1049515,Fortuna League,2023-08-06T13:00:00+00:00,Slovan Liberec,Bohemians 1905,FT
+1049514,Fortuna League,2023-08-06T13:00:00+00:00,Teplice,FK Jablonec,FT
+1049516,Fortuna League,2023-08-06T16:00:00+00:00,Slavia Praha,Zlin,FT
+1049518,Fortuna League,2023-08-12T13:00:00+00:00,Zlin,Slovan Liberec,FT
+1049517,Fortuna League,2023-08-12T13:00:00+00:00,Baník Ostrava,Hradec Králové,FT
+1049520,Fortuna League,2023-08-12T16:00:00+00:00,FK Jablonec,Sparta Praha,FT
+1049523,Fortuna League,2023-08-13T13:00:00+00:00,Mlada Boleslav,Slavia Praha,FT
+1049522,Fortuna League,2023-08-13T13:00:00+00:00,Sigma Olomouc,Teplice,FT
+1049521,Fortuna League,2023-08-13T13:00:00+00:00,Bohemians 1905,Slovácko,FT
+1049519,Fortuna League,2023-08-13T13:00:00+00:00,Pardubice,Karviná,FT
+1049524,Fortuna League,2023-08-13T16:00:00+00:00,České Budějovice,Plzen,FT
+1049526,Fortuna League,2023-08-19T13:00:00+00:00,Slovan Liberec,Pardubice,FT
+1049527,Fortuna League,2023-08-19T13:00:00+00:00,Karviná,FK Jablonec,FT
+1049525,Fortuna League,2023-08-19T13:00:00+00:00,Slovácko,Mlada Boleslav,FT
+1049528,Fortuna League,2023-08-19T16:00:00+00:00,Teplice,Sparta Praha,FT
+1049530,Fortuna League,2023-08-20T13:00:00+00:00,Plzen,Sigma Olomouc,FT
+1049531,Fortuna League,2023-08-20T13:00:00+00:00,Hradec Králové,Zlin,FT
+1049529,Fortuna League,2023-08-20T13:00:00+00:00,České Budějovice,Bohemians 1905,FT
+1049532,Fortuna League,2023-08-20T16:00:00+00:00,Slavia Praha,Baník Ostrava,FT
+1049537,Fortuna League,2023-08-26T13:00:00+00:00,Zlin,Teplice,FT
+1049540,Fortuna League,2023-08-26T13:00:00+00:00,Pardubice,Slovácko,FT
+1049535,Fortuna League,2023-08-26T16:00:00+00:00,Baník Ostrava,České Budějovice,FT
+1049539,Fortuna League,2023-08-27T13:00:00+00:00,FK Jablonec,Slavia Praha,FT
+1049538,Fortuna League,2023-08-27T13:00:00+00:00,Sigma Olomouc,Slovan Liberec,FT
+1049533,Fortuna League,2023-08-27T13:00:00+00:00,Bohemians 1905,Hradec Králové,FT
+1049536,Fortuna League,2023-08-27T16:00:00+00:00,Sparta Praha,Karviná,FT
+1049544,Fortuna League,2023-09-02T13:00:00+00:00,Slovácko,Zlin,FT
+1049548,Fortuna League,2023-09-02T13:00:00+00:00,Teplice,Pardubice,FT
+1049546,Fortuna League,2023-09-02T13:00:00+00:00,České Budějovice,FK Jablonec,FT
+1049543,Fortuna League,2023-09-02T16:00:00+00:00,Baník Ostrava,Mlada Boleslav,FT
+1049541,Fortuna League,2023-09-03T13:00:00+00:00,Plzen,Bohemians 1905,FT
+1049547,Fortuna League,2023-09-03T13:00:00+00:00,Slovan Liberec,Sparta Praha,FT
+1049545,Fortuna League,2023-09-03T16:00:00+00:00,Slavia Praha,Karviná,FT
+1049542,Fortuna League,2023-09-03T18:00:00+00:00,Hradec Králové,Sigma Olomouc,FT
+1049549,Fortuna League,2023-09-16T13:00:00+00:00,Mlada Boleslav,Hradec Králové,FT
+1049551,Fortuna League,2023-09-16T13:00:00+00:00,Sigma Olomouc,České Budějovice,FT
+1049552,Fortuna League,2023-09-16T13:00:00+00:00,Bohemians 1905,Baník Ostrava,FT
+1049553,Fortuna League,2023-09-16T13:00:00+00:00,Karviná,Teplice,FT
+1049555,Fortuna League,2023-09-16T16:00:00+00:00,Pardubice,Slavia Praha,FT
+1049550,Fortuna League,2023-09-17T13:00:00+00:00,Zlin,Plzen,FT
+1049554,Fortuna League,2023-09-17T13:00:00+00:00,FK Jablonec,Slovan Liberec,FT
+1049556,Fortuna League,2023-09-17T16:00:00+00:00,Sparta Praha,Slovácko,FT
+1049562,Fortuna League,2023-09-23T13:00:00+00:00,Slovan Liberec,Teplice,FT
+1049560,Fortuna League,2023-09-23T13:00:00+00:00,Baník Ostrava,Zlin,FT
+1049564,Fortuna League,2023-09-23T13:00:00+00:00,Slovácko,Karviná,FT
+1049559,Fortuna League,2023-09-23T13:00:00+00:00,České Budějovice,Mlada Boleslav,FT
+1049561,Fortuna League,2023-09-23T16:00:00+00:00,Bohemians 1905,Sigma Olomouc,FT
+1049558,Fortuna League,2023-09-24T13:00:00+00:00,Plzen,Pardubice,FT
+1049557,Fortuna League,2023-09-24T13:00:00+00:00,Hradec Králové,FK Jablonec,FT
+1049563,Fortuna League,2023-09-24T16:00:00+00:00,Slavia Praha,Sparta Praha,FT
+1049567,Fortuna League,2023-09-30T13:00:00+00:00,Zlin,České Budějovice,FT
+1049569,Fortuna League,2023-09-30T13:00:00+00:00,FK Jablonec,Slovácko,FT
+1049565,Fortuna League,2023-09-30T13:00:00+00:00,Sigma Olomouc,Baník Ostrava,FT
+1049571,Fortuna League,2023-09-30T13:00:00+00:00,Karviná,Slovan Liberec,FT
+1049570,Fortuna League,2023-09-30T16:00:00+00:00,Sparta Praha,Plzen,FT
+1049566,Fortuna League,2023-10-01T13:00:00+00:00,Mlada Boleslav,Bohemians 1905,FT
+1049572,Fortuna League,2023-10-01T13:00:00+00:00,Teplice,Slavia Praha,FT
+1049568,Fortuna League,2023-10-01T16:00:00+00:00,Pardubice,Hradec Králové,FT
+1049578,Fortuna League,2023-10-07T13:00:00+00:00,Sigma Olomouc,Mlada Boleslav,FT
+1049577,Fortuna League,2023-10-07T13:00:00+00:00,Bohemians 1905,Zlin,FT
+1049580,Fortuna League,2023-10-07T13:00:00+00:00,Slovácko,Teplice,FT
+1049575,Fortuna League,2023-10-07T13:00:00+00:00,České Budějovice,Karviná,FT
+1049576,Fortuna League,2023-10-07T16:00:00+00:00,Baník Ostrava,Pardubice,FT
+1049573,Fortuna League,2023-10-08T13:00:00+00:00,Hradec Králové,Sparta Praha,FT
+1049574,Fortuna League,2023-10-08T16:00:00+00:00,Plzen,FK Jablonec,FT
+1049579,Fortuna League,2023-10-08T16:00:00+00:00,Slovan Liberec,Slavia Praha,FT
+1049581,Fortuna League,2023-10-21T13:00:00+00:00,Zlin,Mlada Boleslav,FT
+1049587,Fortuna League,2023-10-21T13:00:00+00:00,Slovan Liberec,Plzen,FT
+1049585,Fortuna League,2023-10-21T13:00:00+00:00,Karviná,Hradec Králové,FT
+1049582,Fortuna League,2023-10-21T13:00:00+00:00,Pardubice,Sigma Olomouc,FT
+1049588,Fortuna League,2023-10-21T16:00:00+00:00,Slavia Praha,Slovácko,FT
+1049584,Fortuna League,2023-10-22T13:00:00+00:00,Sparta Praha,České Budějovice,FT
+1049586,Fortuna League,2023-10-22T13:00:00+00:00,Teplice,Baník Ostrava,FT
+1049583,Fortuna League,2023-10-22T16:00:00+00:00,FK Jablonec,Bohemians 1905,FT
+1049594,Fortuna League,2023-10-28T13:00:00+00:00,Sigma Olomouc,Zlin,FT
+1049596,Fortuna League,2023-10-28T13:00:00+00:00,Slovácko,Slovan Liberec,FT
+1049589,Fortuna League,2023-10-28T13:00:00+00:00,Hradec Králové,Teplice,FT
+1049591,Fortuna League,2023-10-28T13:00:00+00:00,České Budějovice,Pardubice,FT
+1049592,Fortuna League,2023-10-28T16:00:00+00:00,Baník Ostrava,FK Jablonec,FT
+1049590,Fortuna League,2023-10-29T14:00:00+00:00,Plzen,Karviná,FT
+1049595,Fortuna League,2023-10-29T14:00:00+00:00,Mlada Boleslav,Sparta Praha,FT
+1049593,Fortuna League,2023-10-29T17:00:00+00:00,Bohemians 1905,Slavia Praha,FT
+1049598,Fortuna League,2023-11-04T14:00:00+00:00,FK Jablonec,Sigma Olomouc,FT
+1049604,Fortuna League,2023-11-04T14:00:00+00:00,Slovácko,Hradec Králové,FT
+1049601,Fortuna League,2023-11-04T14:00:00+00:00,Teplice,Mlada Boleslav,FT
+1049597,Fortuna League,2023-11-04T14:00:00+00:00,Pardubice,Zlin,FT
+1049599,Fortuna League,2023-11-04T17:00:00+00:00,Sparta Praha,Bohemians 1905,FT
+1049602,Fortuna League,2023-11-05T14:00:00+00:00,Slovan Liberec,České Budějovice,FT
+1049600,Fortuna League,2023-11-05T14:00:00+00:00,Karviná,Baník Ostrava,FT
+1049603,Fortuna League,2023-11-05T17:00:00+00:00,Slavia Praha,Plzen,FT
+1049612,Fortuna League,2023-11-11T14:00:00+00:00,Zlin,FK Jablonec,FT
+1049611,Fortuna League,2023-11-11T14:00:00+00:00,Mlada Boleslav,Pardubice,FT
+1049605,Fortuna League,2023-11-11T14:00:00+00:00,Hradec Králové,Slovan Liberec,FT
+1049606,Fortuna League,2023-11-11T14:00:00+00:00,České Budějovice,Teplice,FT
+1049609,Fortuna League,2023-11-11T17:00:00+00:00,Bohemians 1905,Karviná,FT
+1049607,Fortuna League,2023-11-12T14:00:00+00:00,Plzen,Slovácko,FT
+1049608,Fortuna League,2023-11-12T14:00:00+00:00,Baník Ostrava,Sparta Praha,FT
+1049610,Fortuna League,2023-11-12T17:00:00+00:00,Sigma Olomouc,Slavia Praha,FT
+1049618,Fortuna League,2023-11-25T14:00:00+00:00,Slovan Liberec,Mlada Boleslav,FT
+1049617,Fortuna League,2023-11-25T14:00:00+00:00,Karviná,Sigma Olomouc,FT
+1049616,Fortuna League,2023-11-25T14:00:00+00:00,Teplice,Bohemians 1905,FT
+1049613,Fortuna League,2023-11-25T14:00:00+00:00,Hradec Králové,Plzen,FT
+1049614,Fortuna League,2023-11-25T17:00:00+00:00,Slavia Praha,České Budějovice,FT
+1049620,Fortuna League,2023-11-26T14:00:00+00:00,FK Jablonec,Pardubice,FT
+1049615,Fortuna League,2023-11-26T14:00:00+00:00,Slovácko,Baník Ostrava,FT
+1049619,Fortuna League,2023-11-26T17:00:00+00:00,Sparta Praha,Zlin,FT
+1049628,Fortuna League,2023-12-02T14:00:00+00:00,Sigma Olomouc,Slovácko,FT
+1049623,Fortuna League,2023-12-03T14:00:00+00:00,Pardubice,Sparta Praha,FT
+1049534,Fortuna League,2023-12-06T16:00:00+00:00,Mlada Boleslav,Plzen,FT
+1049625,Fortuna League,2023-12-06T16:00:00+00:00,FK Jablonec,Teplice,FT
+1049636,Fortuna League,2023-12-09T14:00:00+00:00,Sparta Praha,FK Jablonec,FT
+1049634,Fortuna League,2023-12-09T14:00:00+00:00,Slovan Liberec,Zlin,FT
+1049631,Fortuna League,2023-12-09T14:00:00+00:00,Slovácko,Bohemians 1905,FT
+1049630,Fortuna League,2023-12-09T17:00:00+00:00,Hradec Králové,Baník Ostrava,FT
+1049629,Fortuna League,2023-12-10T14:00:00+00:00,Plzen,České Budějovice,FT
+1049633,Fortuna League,2023-12-10T17:00:00+00:00,Slavia Praha,Mlada Boleslav,FT
+1049624,Fortuna League,2023-12-13T16:00:00+00:00,Mlada Boleslav,Karviná,FT
+1049621,Fortuna League,2023-12-13T16:00:00+00:00,České Budějovice,Hradec Králové,FT
+1049626,Fortuna League,2023-12-13T17:00:00+00:00,Bohemians 1905,Slovan Liberec,FT
+1049641,Fortuna League,2023-12-16T14:00:00+00:00,Zlin,Hradec Králové,FT
+1049640,Fortuna League,2023-12-16T14:00:00+00:00,Mlada Boleslav,Slovácko,FT
+1049643,Fortuna League,2023-12-16T14:00:00+00:00,FK Jablonec,Karviná,FT
+1049642,Fortuna League,2023-12-16T14:00:00+00:00,Pardubice,Slovan Liberec,FT
+1049638,Fortuna League,2023-12-16T17:00:00+00:00,Bohemians 1905,České Budějovice,FT
+1049639,Fortuna League,2023-12-17T14:00:00+00:00,Sigma Olomouc,Plzen,FT
+1049637,Fortuna League,2023-12-17T14:00:00+00:00,Baník Ostrava,Slavia Praha,FT
+1049644,Fortuna League,2023-12-17T17:00:00+00:00,Sparta Praha,Teplice,FT
+1049650,Fortuna League,2024-02-10T14:00:00+00:00,Slovan Liberec,Sigma Olomouc,FT
+1049648,Fortuna League,2024-02-10T14:00:00+00:00,Karviná,Sparta Praha,FT
+1049652,Fortuna League,2024-02-10T14:00:00+00:00,Slovácko,Pardubice,FT
+1049647,Fortuna League,2024-02-10T14:00:00+00:00,České Budějovice,Baník Ostrava,FT
+1049646,Fortuna League,2024-02-10T17:00:00+00:00,Plzen,Mlada Boleslav,FT
+1049649,Fortuna League,2024-02-11T14:00:00+00:00,Teplice,Zlin,FT
+1049645,Fortuna League,2024-02-11T14:00:00+00:00,Hradec Králové,Bohemians 1905,FT
+1049651,Fortuna League,2024-02-11T17:00:00+00:00,Slavia Praha,FK Jablonec,FT
+1049622,Fortuna League,2024-02-13T17:00:00+00:00,Baník Ostrava,Plzen,FT
+1049635,Fortuna League,2024-02-14T16:00:00+00:00,Karviná,Pardubice,FT
+1049627,Fortuna League,2024-02-14T17:00:00+00:00,Zlin,Slavia Praha,FT
+1049655,Fortuna League,2024-02-17T14:00:00+00:00,Mlada Boleslav,Baník Ostrava,FT
+1049658,Fortuna League,2024-02-17T14:00:00+00:00,FK Jablonec,České Budějovice,FT
+1049654,Fortuna League,2024-02-17T14:00:00+00:00,Sigma Olomouc,Hradec Králové,FT
+1049660,Fortuna League,2024-02-17T14:00:00+00:00,Pardubice,Teplice,FT
+1049653,Fortuna League,2024-02-17T17:00:00+00:00,Bohemians 1905,Plzen,FT
+1049656,Fortuna League,2024-02-18T14:00:00+00:00,Zlin,Slovácko,FT
+1049657,Fortuna League,2024-02-18T14:00:00+00:00,Karviná,Slavia Praha,FT
+1049659,Fortuna League,2024-02-18T17:00:00+00:00,Sparta Praha,Slovan Liberec,FT
+1049632,Fortuna League,2024-02-21T16:30:00+00:00,Teplice,Sigma Olomouc,FT
+1049666,Fortuna League,2024-02-24T14:00:00+00:00,Slovan Liberec,FK Jablonec,FT
+1049664,Fortuna League,2024-02-24T14:00:00+00:00,Baník Ostrava,Bohemians 1905,FT
+1049665,Fortuna League,2024-02-24T14:00:00+00:00,Teplice,Karviná,FT
+1049661,Fortuna League,2024-02-24T14:00:00+00:00,Hradec Králové,Mlada Boleslav,FT
+1049662,Fortuna League,2024-02-24T17:00:00+00:00,Plzen,Zlin,FT
+1049667,Fortuna League,2024-02-25T14:00:00+00:00,Slavia Praha,Pardubice,FT
+1049663,Fortuna League,2024-02-25T14:00:00+00:00,České Budějovice,Sigma Olomouc,FT
+1049668,Fortuna League,2024-02-25T17:00:00+00:00,Slovácko,Sparta Praha,FT
+1049671,Fortuna League,2024-03-02T14:00:00+00:00,Mlada Boleslav,České Budějovice,FT
+1049669,Fortuna League,2024-03-02T14:00:00+00:00,FK Jablonec,Hradec Králové,FT
+1049673,Fortuna League,2024-03-02T14:00:00+00:00,Sigma Olomouc,Bohemians 1905,FT
+1049676,Fortuna League,2024-03-02T14:00:00+00:00,Karviná,Slovácko,FT
+1049670,Fortuna League,2024-03-02T17:00:00+00:00,Pardubice,Plzen,FT
+1049674,Fortuna League,2024-03-03T13:00:00+00:00,Teplice,Slovan Liberec,FT
+1049672,Fortuna League,2024-03-03T14:00:00+00:00,Zlin,Baník Ostrava,FT
+1049675,Fortuna League,2024-03-03T17:00:00+00:00,Sparta Praha,Slavia Praha,FT
+1049683,Fortuna League,2024-03-09T14:00:00+00:00,Slovan Liberec,Karviná,FT
+1049678,Fortuna League,2024-03-09T14:00:00+00:00,Bohemians 1905,Mlada Boleslav,FT
+1049681,Fortuna League,2024-03-09T14:00:00+00:00,Slovácko,FK Jablonec,FT
+1049680,Fortuna League,2024-03-09T14:00:00+00:00,Hradec Králové,Pardubice,FT
+1049677,Fortuna League,2024-03-09T17:00:00+00:00,Baník Ostrava,Sigma Olomouc,FT
+1049684,Fortuna League,2024-03-10T14:00:00+00:00,Slavia Praha,Teplice,FT
+1049679,Fortuna League,2024-03-10T14:00:00+00:00,České Budějovice,Zlin,FT
+1049682,Fortuna League,2024-03-10T17:00:00+00:00,Plzen,Sparta Praha,FT
+1049689,Fortuna League,2024-03-16T14:00:00+00:00,Zlin,Bohemians 1905,FT
+1049690,Fortuna League,2024-03-16T14:00:00+00:00,Mlada Boleslav,Sigma Olomouc,FT
+1049687,Fortuna League,2024-03-16T14:00:00+00:00,Karviná,České Budějovice,FT
+1049692,Fortuna League,2024-03-16T17:00:00+00:00,Teplice,Slovácko,FT
+1049691,Fortuna League,2024-03-17T14:00:00+00:00,Slavia Praha,Slovan Liberec,FT
+1049686,Fortuna League,2024-03-17T14:00:00+00:00,FK Jablonec,Plzen,FT
+1049688,Fortuna League,2024-03-17T14:00:00+00:00,Pardubice,Baník Ostrava,FT
+1049685,Fortuna League,2024-03-17T17:00:00+00:00,Sparta Praha,Hradec Králové,FT
+1049699,Fortuna League,2024-03-30T14:00:00+00:00,Plzen,Slovan Liberec,FT
+1049694,Fortuna League,2024-03-30T14:00:00+00:00,Sigma Olomouc,Pardubice,FT
+1049695,Fortuna League,2024-03-30T14:00:00+00:00,Bohemians 1905,FK Jablonec,FT
+1049700,Fortuna League,2024-03-30T17:00:00+00:00,Slovácko,Slavia Praha,FT
+1049693,Fortuna League,2024-03-31T13:00:00+00:00,Mlada Boleslav,Zlin,FT
+1049698,Fortuna League,2024-03-31T13:00:00+00:00,Baník Ostrava,Teplice,FT
+1049697,Fortuna League,2024-03-31T13:00:00+00:00,Hradec Králové,Karviná,FT
+1049696,Fortuna League,2024-03-31T16:00:00+00:00,České Budějovice,Sparta Praha,FT
+1049706,Fortuna League,2024-04-06T13:00:00+00:00,Zlin,Sigma Olomouc,FT
+1049708,Fortuna League,2024-04-06T13:00:00+00:00,Slovan Liberec,Slovácko,FT
+1049702,Fortuna League,2024-04-06T13:00:00+00:00,Karviná,Plzen,FT
+1049705,Fortuna League,2024-04-06T16:00:00+00:00,Slavia Praha,Bohemians 1905,FT
+1049704,Fortuna League,2024-04-07T13:00:00+00:00,FK Jablonec,Baník Ostrava,FT
+1049701,Fortuna League,2024-04-07T13:00:00+00:00,Teplice,Hradec Králové,FT
+1049703,Fortuna League,2024-04-07T13:00:00+00:00,Pardubice,České Budějovice,FT
+1049707,Fortuna League,2024-04-07T16:00:00+00:00,Sparta Praha,Mlada Boleslav,FT
+1049713,Fortuna League,2024-04-13T13:00:00+00:00,Mlada Boleslav,Teplice,FT
+1049711,Fortuna League,2024-04-13T13:00:00+00:00,Bohemians 1905,Sparta Praha,FT
+1049714,Fortuna League,2024-04-13T13:00:00+00:00,České Budějovice,Slovan Liberec,FT
+1049716,Fortuna League,2024-04-13T16:00:00+00:00,Hradec Králové,Slovácko,FT
+1049709,Fortuna League,2024-04-14T13:00:00+00:00,Zlin,Pardubice,FT
+1049710,Fortuna League,2024-04-14T13:00:00+00:00,Sigma Olomouc,FK Jablonec,FT
+1049712,Fortuna League,2024-04-14T13:00:00+00:00,Baník Ostrava,Karviná,FT
+1049715,Fortuna League,2024-04-14T16:00:00+00:00,Plzen,Slavia Praha,FT
+1049720,Fortuna League,2024-04-20T13:00:00+00:00,Sparta Praha,Baník Ostrava,FT
+1049724,Fortuna League,2024-04-20T13:00:00+00:00,FK Jablonec,Zlin,FT
+1049721,Fortuna League,2024-04-20T13:00:00+00:00,Karviná,Bohemians 1905,FT
+1049718,Fortuna League,2024-04-20T16:00:00+00:00,Teplice,České Budějovice,FT
+1049722,Fortuna League,2024-04-21T13:00:00+00:00,Slavia Praha,Sigma Olomouc,FT
+1049717,Fortuna League,2024-04-21T13:00:00+00:00,Slovan Liberec,Hradec Králové,FT
+1049723,Fortuna League,2024-04-21T13:00:00+00:00,Pardubice,Mlada Boleslav,FT
+1049719,Fortuna League,2024-04-21T16:00:00+00:00,Slovácko,Plzen,FT
+1049729,Fortuna League,2024-04-28T13:00:00+00:00,Plzen,Teplice,FT
+1049728,Fortuna League,2024-04-28T13:00:00+00:00,Zlin,Karviná,FT
+1049726,Fortuna League,2024-04-28T13:00:00+00:00,FK Jablonec,Mlada Boleslav,FT
+1049727,Fortuna League,2024-04-28T13:00:00+00:00,Sigma Olomouc,Sparta Praha,FT
+1049730,Fortuna League,2024-04-28T13:00:00+00:00,Baník Ostrava,Slovan Liberec,FT
+1049725,Fortuna League,2024-04-28T13:00:00+00:00,Bohemians 1905,Pardubice,FT
+1049731,Fortuna League,2024-04-28T13:00:00+00:00,Hradec Králové,Slavia Praha,FT
+1049732,Fortuna League,2024-04-28T13:00:00+00:00,České Budějovice,Slovácko,FT
+1198009,Fortuna League,2024-05-04T13:00:00+00:00,FK Jablonec,Karviná,FT
+1198010,Fortuna League,2024-05-04T13:00:00+00:00,Pardubice,Zlin,FT
+1198008,Fortuna League,2024-05-04T13:00:00+00:00,České Budějovice,Bohemians 1905,FT
+1197993,Fortuna League,2024-05-04T16:00:00+00:00,Slavia Praha,Baník Ostrava,FT
+1197994,Fortuna League,2024-05-05T13:00:00+00:00,Plzen,Mlada Boleslav,FT
+1197989,Fortuna League,2024-05-05T13:00:00+00:00,Teplice,Slovan Liberec,FT
+1197991,Fortuna League,2024-05-05T13:00:00+00:00,Hradec Králové,Sigma Olomouc,FT
+1197995,Fortuna League,2024-05-05T16:00:00+00:00,Slovácko,Sparta Praha,FT
+1197997,Fortuna League,2024-05-11T13:00:00+00:00,Plzen,Slovácko,FT
+1197996,Fortuna League,2024-05-11T13:00:00+00:00,Baník Ostrava,Mlada Boleslav,FT
+1197998,Fortuna League,2024-05-11T15:30:00+00:00,Sparta Praha,Slavia Praha,FT
+1197990,Fortuna League,2024-05-12T13:00:00+00:00,Slovan Liberec,Teplice,FT
+1197992,Fortuna League,2024-05-12T13:00:00+00:00,Sigma Olomouc,Hradec Králové,FT
+1198012,Fortuna League,2024-05-12T13:00:00+00:00,Bohemians 1905,FK Jablonec,FT
+1198011,Fortuna League,2024-05-12T13:00:00+00:00,Pardubice,České Budějovice,FT
+1198013,Fortuna League,2024-05-12T16:00:00+00:00,Karviná,Zlin,FT
+1197999,Fortuna League,2024-05-14T15:00:00+00:00,Mlada Boleslav,Slovácko,FT
+1198000,Fortuna League,2024-05-14T17:30:00+00:00,Sparta Praha,Baník Ostrava,FT
+1198001,Fortuna League,2024-05-15T17:30:00+00:00,Slavia Praha,Plzen,FT
+1198016,Fortuna League,2024-05-16T15:00:00+00:00,Zlin,České Budějovice,FT
+1198015,Fortuna League,2024-05-16T15:00:00+00:00,FK Jablonec,Pardubice,FT
+1198014,Fortuna League,2024-05-16T15:00:00+00:00,Bohemians 1905,Karviná,FT
+1198004,Fortuna League,2024-05-18T15:00:00+00:00,Plzen,Baník Ostrava,FT
+1198002,Fortuna League,2024-05-18T15:00:00+00:00,Mlada Boleslav,Sparta Praha,FT
+1198003,Fortuna League,2024-05-18T15:00:00+00:00,Slovácko,Slavia Praha,FT
+1200250,Fortuna League,2024-05-19T13:00:00+00:00,Teplice,Hradec Králové,FT
+1198019,Fortuna League,2024-05-19T15:00:00+00:00,Zlin,Bohemians 1905,FT
+1198017,Fortuna League,2024-05-19T15:00:00+00:00,Pardubice,Karviná,FT
+1198018,Fortuna League,2024-05-19T15:00:00+00:00,České Budějovice,FK Jablonec,FT
+1198021,Fortuna League,2024-05-25T16:00:00+00:00,FK Jablonec,Zlin,FT
+1198020,Fortuna League,2024-05-25T16:00:00+00:00,Bohemians 1905,Pardubice,FT
+1198022,Fortuna League,2024-05-25T16:00:00+00:00,Karviná,České Budějovice,FT
+1200251,Fortuna League,2024-05-25T16:00:00+00:00,Hradec Králové,Teplice,FT
+1198006,Fortuna League,2024-05-26T14:00:00+00:00,Slavia Praha,Mlada Boleslav,FT
+1198005,Fortuna League,2024-05-26T14:00:00+00:00,Sparta Praha,Plzen,FT
+1198007,Fortuna League,2024-05-26T14:00:00+00:00,Baník Ostrava,Slovácko,FT
+1201622,Fortuna League,2024-05-30T16:00:00+00:00,České Budějovice,Táborsko,FT
+1201620,Fortuna League,2024-05-30T16:00:00+00:00,Vyškov,Karviná,FT
+1201619,Fortuna League,2024-05-31T16:00:00+00:00,Mlada Boleslav,Hradec Králové,FT
+1201621,Fortuna League,2024-06-02T15:30:00+00:00,Karviná,Vyškov,FT
+1201623,Fortuna League,2024-06-02T15:30:00+00:00,Táborsko,České Budějovice,FT
