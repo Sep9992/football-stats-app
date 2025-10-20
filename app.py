@@ -6,10 +6,26 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 load_dotenv()
-DB_CONN = os.getenv("DATABASE_URL")  # postgresql://user:pass@localhost:5433/football
-if not DB_CONN:
-    raise ValueError("❌ DATABASE_URL není nastavený v .env souboru")
+#DB_CONN = os.getenv("DATABASE_URL")  # postgresql://user:pass@localhost:5433/football
+#if not DB_CONN:
+#    raise ValueError("❌ DATABASE_URL není nastavený v .env souboru")
+#engine = create_engine(DB_CONN)
+
+DB_CONN = os.getenv("DATABASE_URL")
+assert DB_CONN and DB_CONN.startswith("postgresql+psycopg2://"), "DATABASE_URL není nastavené nebo má špatný prefix"
+
+# Debug výpis (bez hesla)
+print("DB host:", DB_CONN.split("@")[1].split(":")[0])
+print("DB name:", DB_CONN.split("/")[-1])
+
 engine = create_engine(DB_CONN)
+
+# Test připojení
+with engine.connect() as conn:
+    print("Test SELECT 1:", conn.execute(text("SELECT 1")).scalar())
+
+# --- až potom spouštěj dotazy na tabulky ---
+leagues = pd.read_sql("SELECT DISTINCT league FROM fixtures", engine)["league"].tolist()
 
 st.set_page_config(page_title="Football Stats Explorer", layout="wide")
 st.title("⚽ Football Stats Explorer")
@@ -28,7 +44,7 @@ with st.sidebar:
 
     # datumový rozsah
     min_date, max_date = pd.read_sql("SELECT MIN(match_date), MAX(match_date) FROM fixtures", engine).iloc[0]
-    date_range = st.date_input("Rozsah dat", [min_date.date(), max_date.date()])
+    date_range = st.date_input("Rozsah dat", [min_date, max_date])
 
 # --- Načtení dat z fixtures ---
 query = """

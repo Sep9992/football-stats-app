@@ -1,5 +1,5 @@
-streamlit
-sqlalchemy
 psycopg2-binary
+SQLAlchemy
 pandas
-python-dotenv
+streamlit
+
