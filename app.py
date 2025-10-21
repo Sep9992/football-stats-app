@@ -24,9 +24,6 @@ engine = create_engine(DB_CONN)
 with engine.connect() as conn:
     print("Test SELECT 1:", conn.execute(text("SELECT 1")).scalar())
 
-# --- až potom spouštěj dotazy na tabulky ---
-leagues = pd.read_sql("SELECT DISTINCT league FROM fixtures", engine)["league"].tolist()
-
 st.set_page_config(page_title="Football Stats Explorer", layout="wide")
 st.title("⚽ Football Stats Explorer")
 
