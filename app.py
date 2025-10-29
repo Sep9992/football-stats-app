@@ -67,6 +67,13 @@ with st.sidebar:
         ).iloc[0]
 
     date_range = st.date_input("Rozsah dat", [min_date, max_date])
+    # pokud uživatel vybere jen jedno datum, zabalíme ho do dvojice
+    if isinstance(date_range, tuple) or isinstance(date_range, list):
+        start_date, end_date = date_range
+    else:
+        start_date = end_date = date_range
+
+    params = {"league": league, "start": start_date, "end": end_date}
 
 # --- Načtení dat z fixtures ---
 query = """
