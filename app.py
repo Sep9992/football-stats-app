@@ -67,10 +67,12 @@ with st.sidebar:
         ).iloc[0]
 
     date_range = st.date_input("Rozsah dat", [min_date, max_date])
-    # pokud uživatel vybere jen jedno datum, zabalíme ho do dvojice
-    if isinstance(date_range, tuple) or isinstance(date_range, list):
+
+    # Streamlit může vrátit buď jedno datum, nebo dvojici
+    if isinstance(date_range, (list, tuple)) and len(date_range) == 2:
         start_date, end_date = date_range
     else:
+        # uživatel vybral jen jedno datum → použijeme ho jako začátek i konec
         start_date = end_date = date_range
 
     params = {"league": league, "start": start_date, "end": end_date}
