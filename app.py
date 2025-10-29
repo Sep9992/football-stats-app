@@ -33,10 +33,10 @@ with st.sidebar:
 
     # dostupné ligy
     leagues = pd.read_sql("SELECT DISTINCT league FROM fixtures", engine)["league"].tolist()
-    league = st.selectbox("Vyber ligu", leagues)
+    league = st.selectbox("Vyber ligu", ["-- všichni --"] + leagues)
 
-    # dostupné týmy – jen z vybrané ligy
-    if league:
+    # dostupné týmy – jen z vybrané ligy (pokud je vybraná konkrétní liga)
+    if league != "-- všichni --":
         teams_query = text("""
             SELECT DISTINCT home_team AS team FROM fixtures WHERE league = :league
             UNION
@@ -44,16 +44,28 @@ with st.sidebar:
         """)
         teams = pd.read_sql(teams_query, engine, params={"league": league})["team"].tolist()
     else:
-        teams = []
+        teams_query = text("""
+            SELECT DISTINCT home_team AS team FROM fixtures
+            UNION
+            SELECT DISTINCT away_team FROM fixtures
+        """)
+        teams = pd.read_sql(teams_query, engine)["team"].tolist()
 
     team = st.selectbox("Vyber tým (volitelné)", ["-- všichni --"] + teams)
 
-    # datumový rozsah – také omezený na ligu
-    min_date, max_date = pd.read_sql(
-        text("SELECT MIN(match_date), MAX(match_date) FROM fixtures WHERE league = :league"),
-        engine,
-        params={"league": league}
-    ).iloc[0]
+    # datumový rozsah – pokud je vybraná liga, omezíme na ni
+    if league != "-- všichni --":
+        min_date, max_date = pd.read_sql(
+            text("SELECT MIN(match_date), MAX(match_date) FROM fixtures WHERE league = :league"),
+            engine,
+            params={"league": league}
+        ).iloc[0]
+    else:
+        min_date, max_date = pd.read_sql(
+            "SELECT MIN(match_date), MAX(match_date) FROM fixtures",
+            engine
+        ).iloc[0]
+
     date_range = st.date_input("Rozsah dat", [min_date, max_date])
 
 # --- Načtení dat z fixtures ---
